@@ -1,0 +1,5 @@
+Lesson two,
+
+Git Init in practice creates a .git file in the directory. This tells git that there is a repository of files that are a part of some project/whatever.
+
+The git init sets up the directory as this repository and enables the tracking of changes, allows you to commit etc etc.
